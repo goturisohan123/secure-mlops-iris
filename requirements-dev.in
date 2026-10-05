@@ -1,0 +1,7 @@
+-r requirements.txt
+scikit-learn
+scipy
+pytest
+httpx
+bandit
+pip-audit
