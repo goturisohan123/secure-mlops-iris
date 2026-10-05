@@ -1,3 +1,10 @@
-.env
 .venv
 .git
+.github
+__pycache__
+.pytest_cache
+.env
+reports
+tests
+requirements-dev.in
+requirements-dev.txt
